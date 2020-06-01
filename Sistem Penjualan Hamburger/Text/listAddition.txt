@@ -1,0 +1,12 @@
+Cheesy Rasher;13.636
+Cheesy Fries;10.909
+Large Fries;15.000
+Medium Fries;14.545
+Cheesy Totz;20.000
+Waffle Fries;15.000
+Coke;18.636
+Fanta;18.636
+Sprite;18.636
+Lemon tea;18.636
+Original tea;18.636
+Mineral water;8.182

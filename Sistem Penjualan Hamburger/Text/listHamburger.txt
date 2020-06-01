@@ -1,0 +1,5 @@
+Whopper;49.545
+CheeseBurger;33.182
+Mushroom Swiss;39.545
+BBQ Beef Rasher;39.545
+Fish Fillet;43.636
